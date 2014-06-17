@@ -1,3 +1,5 @@
+# this is a comment
+
 for filename in $*
 do
 	echo $filename
