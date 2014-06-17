@@ -1,3 +1,4 @@
+# this is the second comment
 # this is a comment
 
 for filename in $*
